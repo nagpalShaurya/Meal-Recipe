@@ -20,7 +20,8 @@ This app is built on flutter that features some of the meals and dishes and prov
 Runs on both android and ios.
 
 # Screenshots
-
+<img src = "screenshots/s2.png" width="270" height="430"> <img src = "screenshots/s3.png" width="270" height="430"> 
+<img src = "screenshots/s4.png" width="270" height="430"> <img src = "screenshots/s5.png" width="270" height="430"> <img src = "screenshots/s6.png" width="270" height="430"> 
 # App Features
 - Cool Ui
 - Filters for dishes
